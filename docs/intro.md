@@ -2,46 +2,32 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Welcome
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to the official documentation of Bacula-Web, the open source reporting and monitoring tool for Bacula.
 
-## Getting Started
+You can access the documentation for each topic from the table of content in the sidebar, you can also use the search bar in the top-left corner.
 
-Get started by **creating a new site**.
+If you want to know more about the project, we recommend that you read the About page.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+For new installation or upgrade, see the Installation and upgrade section.
 
-### What you'll need
+# Get involved and contribute
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Bacula-Web is an open source project developed and maintained by a community of volunteers.
 
-## Generate a new site
+If you want to get involved in improving the current documentation, fix a bug in the code, or add a new feature, then read the contributor guide.
 
-Generate a new Docusaurus site using the **classic template**.
+# How to get Help
 
-The classic template will automatically be added to your project after you run the command:
+At any time, if you have a question or any feedback, you can
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+contact me by mail at hello@bacula-web.org
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+use the GitHub discussion
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+send an email to the Bacula Users mailing list at bacula-users@lists.sourceforge.net
 
-## Start your site
+If you want to submit an issue or a feature request, there’s also a bug tracker available on the GitHub project.
 
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+The How to get help section should also contain some information to help you.
