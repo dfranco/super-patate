@@ -66,7 +66,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/bacula-web-social-card.jpg',
+      metadata: [
+        {name: 'keywords', content: 'bacula, monitoring, reporting'},
+        {name: 'twittercard', content: 'img/bacula-web-social-card.jpg'}
+      ],
       navbar: {
         title: 'Bacula-Web',
         logo: {
